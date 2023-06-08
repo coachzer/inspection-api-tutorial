@@ -20,7 +20,7 @@ To run the project locally, follow these steps:
 4. Configure the database connection string in the `appsettings.json` file.
 5. Run database migrations: `dotnet ef database update`
 6. Start the application: `dotnet run`
-7. Access the API at: `http://localhost:4200`- as we used Angular for the front-end
+7. Access the API at: `http://localhost:4200`- as we used Angular for the frontend
 
 ## API Endpoints
 
